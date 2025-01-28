@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angai4
 - 👀 I’m interested in the integration of 'omic' technologies to transform pathology analysis
-- 🌱 I’m currently learning R, shell, and perl scripting
+- 🌱 Python, R, Bash, Perl
 - 📫 How to reach me aaronngai727@gmail.com
 - 😄 Pronouns: he/him
 
